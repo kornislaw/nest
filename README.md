@@ -1,8 +1,12 @@
-# Nest
+# Nest-korn
 
-Nest is a theme for [Pelican](http://getpelican.com) 3.5+, a static site generator written in Python.
+Nest-korn is a theme for [Pelican](http://getpelican.com) 3.5+, a static site generator written in Python.
 
-I initially created this theme for [my blog](http://www.molivier.com), but now the theme is supposed to be generic enough to have its own repository.
+This theme is forked from Nest, made by [Matthieu OLIVIER in his blog](http://www.molivier.com), which I found the best in [a long list of all themes available](http://pelicanthemes.com/). Thanks Matthieu for your great work!
+
+I'm renaming the theme to make it easier to keep both themes in the same directory.
+
+Following is the instruction for the original theme, which applies to my fork as well.
 
 ## Screenshots
 
